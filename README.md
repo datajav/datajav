@@ -1,6 +1,6 @@
 Hi there 👋, I am Javaughn 
 
-🏫I am currently a Data Science student at the Univeristy of the Commononwealth Carribean in Jamaica<br/>
+🏫I am currently a Data Science student at the Univeristy of the Commononwealth Caribbean in Jamaica<br/>
 💡I am currently working on projects and ideas to further my interest in the data field<br/>
 
 
