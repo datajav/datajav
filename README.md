@@ -2,7 +2,7 @@
 
 ###
 
-![Banner]([datajav/assets/final.gif](https://github.com/datajav/datajav/blob/main/assests/final.gif))
+![Banner](https://github.com/datajav/datajav/blob/main/assests/final.gif)
 
 ###
 
