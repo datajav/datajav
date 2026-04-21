@@ -56,12 +56,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datajav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=datajav&locale=en&mode=weekly&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datajav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=datajav&locale=en&mode=weekly&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datajav&radius=16&theme=noctis-minimus&area=true&order=5" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datajav&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
+
+
