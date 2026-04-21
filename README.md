@@ -13,8 +13,6 @@
   I'm always learning — feel free to explore my repos. Most are works in progress, and that's kind of the point. 🙂
 </p>
 
-**Languages:** Python, SQL, R &nbsp;|&nbsp; **ML/AI:** scikit-learn, PyTorch, TensorFlow, Hugging Face &nbsp;|&nbsp; **Data & Viz:** pandas, NumPy, Matplotlib, Seaborn &nbsp;|&nbsp; **Tools:** Git, Docker, Jupyter, VS Code
-
 <br/>
 
 ---
