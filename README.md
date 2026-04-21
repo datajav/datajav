@@ -2,9 +2,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/datajav/datajav/blob/main/assets/final.gif" alt="ML/DS Banner" />
-</p>
+![Banner](https://github.com/datajav/datajav/blob/main/assests/final.gif)
 
 <br/>
 
