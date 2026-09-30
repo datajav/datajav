@@ -61,7 +61,7 @@ profile = {
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=datajav&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
+  <img src="https://ghstats.dev/api/mini?username=datajav&theme=tokyonight&metric=hours" alt="GitHub Mini Badge" />
 </div>
 
 <br/>
