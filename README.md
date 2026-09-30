@@ -61,7 +61,7 @@ profile = {
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/mini?username=datajav&theme=tokyonight&metric=hours" alt="GitHub Mini Badge" />
+<img src="https://ghstats.dev/api/sparkline?username=datajav&theme=tokyonight&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </div>
 
 <br/>
