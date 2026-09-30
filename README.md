@@ -67,5 +67,5 @@ profile = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datajav&radius=16&theme=tokyo-night&area=true&order=5" height="280" alt="Activity Graph" />
+  <img src="https://ghstats.dev/api/card?username=datajav&theme=tokyonight" alt="GitHub Stats Card" />
 </div
